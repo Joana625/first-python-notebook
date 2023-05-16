@@ -1,2 +1,2 @@
 ## Testing git
-Testing git is working from within VSCode within Anaconda.
+Testing git is working from within VSCode within Anaconda. Using ssh
